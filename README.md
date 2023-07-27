@@ -6,5 +6,5 @@ Below is a compilation of Free Software network services and web applications de
 | Software | Open-Source / Self-Host | Comments |
 | :---         | :---         | :---         |  
 | Segment   | [Jitsu](https://www.jitsu.com) | Good alternative for segment and self host |
-| Firebase   | [Pocketbase](https://www.pocketbase.io) , [Supabase](https://www.supabase.com) | Pocketbase is  light weight SQLlite |
+| Firebase   | [Pocketbase](https://www.pocketbase.io) , [Supabase](https://www.supabase.com) | Pocketbase is  light weight SQLite |
 | Netlify, Heroku   | [Coolify](https://www.coolify.io) | Easy setup. Active repo |
