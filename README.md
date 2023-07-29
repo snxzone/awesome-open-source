@@ -11,3 +11,5 @@ Below is a compilation of Free Software network services and web applications de
 | Chakra   | [shadcn](https://ui.shadcn.com) | Beautifully designed components that you can copy and paste into your apps.Nextjs, React |
 | Algolia, Elasticsearch   | [typesense](https://typesense.org) | Good alternative for elastic and algolia |
 | Vector Admin   | [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) |  The universal GUI frontend for data management of vector databases. Manage Pinecone, Chroma, and more vector data with ease. |
+| Logs, Traces, Metrices   | [SigNoz](https://signoz.io) | Open Source Observability with Traces,
+Logs and Metrics in a single pane |
