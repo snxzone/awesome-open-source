@@ -13,3 +13,13 @@ Below is a compilation of Free Software network services and web applications de
 | Algolia, Elasticsearch   | [typesense](https://typesense.org) | Good alternative for elastic and algolia |
 | Vector Admin   | [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) |  The universal GUI frontend for data management of vector databases. Manage Pinecone, Chroma, and more vector data with ease. |
 | Logs, Traces, Metrices   | [SigNoz](https://signoz.io) | Open Source Observability with Traces, Logs and Metrics in a single pane |
+
+
+## Deployments
+
+| Framework | Link | Comments |
+| :---         | :---         | :---         |
+| Next.js, React, Svelte, or Astro   | [SST](https://www.sst.dev) | Build modern full-stack applications on AWS |
+| Next.js   | [Nextjs-Terraform](https://registry.terraform.io/modules/milliHQ/next-js/aws/latest) | Terraform module for building and deploying Next.js apps to AWS. Supports SSR (Lambda), Static (S3) and API (Lambda) pages. |
+| Next.js   | [Nextjs-Serverless](https://www.serverless.com/plugins/serverless-nextjs-plugin) | Deploy serverless next apps with ease |
+
