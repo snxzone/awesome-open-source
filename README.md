@@ -13,6 +13,7 @@ Below is a compilation of Free Software network services and web applications de
 | Algolia, Elasticsearch   | [typesense](https://typesense.org) | Good alternative for elastic and algolia |
 | Vector Admin   | [Mintplex-Labs/vector-admin](https://github.com/Mintplex-Labs/vector-admin) |  The universal GUI frontend for data management of vector databases. Manage Pinecone, Chroma, and more vector data with ease. |
 | Logs, Traces, Metrices   | [SigNoz](https://signoz.io) | Open Source Observability with Traces, Logs and Metrics in a single pane |
+| Bitly   | [Dub](https://www.dub.sh) | open-source link management tool for modern marketing teams to create, share, and track short links |
 
 
 ## Deployments
