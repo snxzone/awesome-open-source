@@ -16,6 +16,7 @@ Below is a compilation of Free Software network services and web applications de
 | Bitly   | [Dub](https://www.dub.sh) [Kutt](https://www.kutt.it) | open-source link management tool for modern marketing teams to create, share, and track short links |
 | Metabase   | [Superset](https://superset.apache.org) [Redash](https://redash.io) | Modern data exploration and visualization platform |
 | Uptimes   | [upptime](https://github.com/upptime/upptime) | open-source uptime monitor and status page |
+| Postman   | [hoppscotch](https://hoppscotch.io) | Open-Source Postman Alternative  |
 
 
 ## Deployments
